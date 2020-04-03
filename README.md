@@ -1,1 +1,1 @@
-# GISgallery
+# GIS gallery
